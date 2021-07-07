@@ -1,0 +1,16 @@
+.social-footer {
+	float: auto;
+	font-size: 20px;
+	padding: 40;
+	margin-right: 30;
+}
+
+.fa-facebook {
+	background: #3b5998;
+	color: white;
+}
+
+.fa-twitter {
+	background: #55acee;
+	color: white;
+}
